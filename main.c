@@ -7,8 +7,6 @@ int main() {
     No* biblioteca = NULL;
     NoHistorico* historico = NULL;
 
-    printf("Teste Inicial da biblioteca");
-
     //menu e integração futura
 
     return 0;
